@@ -33,6 +33,9 @@ function App() {
                 Users
               </NavLink>
             </li>
+            <li>
+              <a href="/#">learn react</a>
+            </li>
           </ul>
         </nav>
         <Routes>
